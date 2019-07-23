@@ -25,3 +25,12 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# IDE settings
+.idea
+
+# DB data
+docker/db/data/*
+
+!.gitkeep
+
